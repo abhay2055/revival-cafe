@@ -1,0 +1,17 @@
+{
+  "name": "revival-coffee-cafe",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Vercel deployment package for Revival Coffee Cafe API",
+  "engines": {
+    "node": "20.x"
+  },
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "cors": "^2.8.6",
+    "dotenv": "^16.6.1",
+    "express": "^4.22.1",
+    "jsonwebtoken": "^9.0.0",
+    "mongoose": "^7.8.9"
+  }
+}
